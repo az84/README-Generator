@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/az84/-Professional-README-Generator.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/az84/-Professional-README-Generator/issues"
+  },
+  "homepage": "https://github.com/az84/-Professional-README-Generator#readme"
+}
