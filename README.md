@@ -1,6 +1,6 @@
 
 # 
- 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Table of Contents:
 - [Description](#description)
 - [License](#License)
@@ -21,8 +21,8 @@
 ## Tests
 
 ## License
- 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## GitHub
 
-## E-mail
+## Email
 undefined
