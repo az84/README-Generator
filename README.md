@@ -1,6 +1,6 @@
 
 # 
-undefined
+ 
 ## Table of Contents:
 - [Description](#description)
 - [License](#License)
@@ -16,12 +16,12 @@ undefined
 
 ## Usage
 
-## Contributing
-undefined
+## Contribution
+
 ## Tests
 
 ## License
-undefined
+ 
 ## GitHub
 
 ## E-mail
