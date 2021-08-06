@@ -1,5 +1,4 @@
 // function to generate markdown for README
-// function to generate markdown for README
 function licenseBadge(data) {
   const licenInput = data.License;
   if (licenInput === "BSD 3-Clause License") {
@@ -43,6 +42,7 @@ ${licenseBadge(data)}
 ## GitHub
 ${data.Github}
 ## Email
-${data.Email}`
+${data.Email}
+`
 }
 module.exports = generateMarkdown;
